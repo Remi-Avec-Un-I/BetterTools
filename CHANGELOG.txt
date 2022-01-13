@@ -1,0 +1,6 @@
+Change Log : 
+
+    -> 13/01/2022
+    First version
+    Add cls() function,
+    and Binput(Input_message, Input_type, error_message, clear, delay , func, **kwargs) with all these args

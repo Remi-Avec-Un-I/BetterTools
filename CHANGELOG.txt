@@ -1,6 +1,36 @@
 Change Log : 
 
+
     -> 13/01/2022
-    First version
-    Add cls() function,
-    and Binput(Input_message, Input_type, error_message, clear, delay , func, **kwargs) with all these args
+        First version
+
+        Add cls() function,
+        and Binput(Input_message, Input_type, error_message, clear, delay , func, kwargs)             with all these args
+
+    -> 13/01/2022
+
+        0.0.2
+
+        Fix little probleme
+
+    -> 13/01/2022
+
+        0.0.3
+
+        Fix Change Log probleme
+
+    -> 15/01/2022
+
+        0.0.4
+
+        Add Btype(var) which  return the name only name of a var like: int, not "class 'int'"
+
+        Add p(text) and i(text) like print() and input() but faster to write
+
+    -> 15/01/2022
+
+        0.0.5
+
+        Fix little probleme with lib
+
+        And add print argument to Btype() to automatically print it if True, or if False (by default) return it

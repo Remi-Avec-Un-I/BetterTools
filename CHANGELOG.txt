@@ -1,23 +1,50 @@
 Change Log : 
 
+    -> 23/01/2022
 
-    -> 13/01/2022
-        First version
+        0.1.0
 
-        Add cls() function,
-        and Binput(Input_message, Input_type, error_message, clear, delay , func, kwargs)             with all these args
+        Fixing last bugs, and fully rework of lib documentation
 
-    -> 13/01/2022
+    -> 17/01/2022
 
-        0.0.2
+        0.0.9.5
 
-        Fix little probleme
+        Add initLogs, to set usefull var for the other add, logs(). Which is usefull to create logs in .txt file, or .log file, or print 
 
-    -> 13/01/2022
+    -> 15/01/2022
 
-        0.0.3
+        0.0.9
 
-        Fix Change Log probleme
+        Add Bprint(), can write text with specific speed, replace previous words just printed using this function, and more :)
+
+    -> 15/01/2022
+
+        0.0.8
+
+        Improove p()
+
+    -> 15/01/2022
+
+        0.0.7
+
+        Fix other stuff
+
+    -> 15/01/2022
+
+        0.0.6
+
+        Fix p() probleme, and add all normal print() function arguments into p(), like end="", sep="" etc
+
+        Add loading() function, which create a loading print. Usefull for for loops.
+
+    -> 15/01/2022
+
+        0.0.5
+
+        Fix little probleme with lib
+
+        And add print argument to Btype() to automatically print it if True, or if False (by default) return it
 
     -> 15/01/2022
 
@@ -27,10 +54,23 @@ Change Log :
 
         Add p(text) and i(text) like print() and input() but faster to write
 
-    -> 15/01/2022
+    -> 13/01/2022
 
-        0.0.5
+        0.0.3
 
-        Fix little probleme with lib
+        Fix Change Log probleme
 
-        And add print argument to Btype() to automatically print it if True, or if False (by default) return it
+    -> 13/01/2022
+
+        0.0.2
+
+        Fix little probleme
+
+    -> 13/01/2022
+
+        First version
+
+        0.0.1
+
+        Add cls() function,
+        and Binput(Input_message, Input_type, error_message, clear, delay , func, kwargs)             with all these args

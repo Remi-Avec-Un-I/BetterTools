@@ -10,8 +10,8 @@ classifiers=[
 
 setup(
     name='BetterTools',
-    version='0.0.5',
-    description='This is a lib to improove input fonction.',
+    version='0.1.0',
+    description='This is a lib to improove native fonction, and some usefull one for everyone.',
     long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
     url='https://github.com/Remi-Avec-Un-I/BetterTools',
     author='Remi_Avec_Un_I',

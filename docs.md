@@ -324,7 +324,7 @@ Same as print native function, with all the same arguments
 
 ##### i
 
-Same as print native function
+Same as input native function
 
   
  > **[My github](https://github.com/Remi-Avec-Un-I)**   
